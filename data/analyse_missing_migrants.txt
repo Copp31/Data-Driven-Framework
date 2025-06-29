@@ -1,0 +1,46 @@
+=== Analysis of the Missing Migrants Project Data ===
+
+Total confirmed deaths: 45,209
+Estimated number of missing persons: 30,646
+Total number of dead and missing: 75,855
+Total number of survivors: 113,469
+
+--- Demographic distribution ---
+Total number of females: 6,681
+Total number of males: 22,161
+Total number of children: 4,126
+
+--- Regions with the most incidents ---
+North America: 4587 incidents
+Southern Asia: 4396 incidents
+Mediterranean: 2686 incidents
+Northern Africa: 2269 incidents
+Central America: 1876 incidents
+
+--- Most common causes of death ---
+Drowning: 4562 cases
+Mixed or unknown: 4251 cases
+Vehicle accident / death linked to hazardous transport: 3093 cases
+Sickness / lack of access to adequate healthcare: 2553 cases
+Harsh environmental conditions / lack of adequate shelter, food, water: 2422 cases
+
+--- Most frequently recorded countries of origin ---
+Unknown: 8700 cases
+Afghanistan: 4414 cases
+Mexico: 1559 cases
+Guatemala: 547 cases
+Honduras: 401 cases
+
+--- Yearly deaths and missing ---
+2014: 5446 dead/missing
+2015: 6961 dead/missing
+2016: 8253 dead/missing
+2017: 6404 dead/missing
+2018: 5017 dead/missing
+2019: 5432 dead/missing
+2020: 4313 dead/missing
+2021: 6279 dead/missing
+2022: 7205 dead/missing
+2023: 8755 dead/missing
+2024: 9191 dead/missing
+2025: 2584 dead/missing

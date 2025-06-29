@@ -1,0 +1,46 @@
+{
+  "totals": {
+    "total_dead": 45209,
+    "total_missing": 30646,
+    "total_dead_and_missing": 75855,
+    "total_survivors": 113469,
+    "total_females": 6681,
+    "total_males": 22161,
+    "total_children": 4126
+  },
+  "top_regions": {
+    "North America": 4587,
+    "Southern Asia": 4396,
+    "Mediterranean": 2686,
+    "Northern Africa": 2269,
+    "Central America": 1876
+  },
+  "top_causes": {
+    "Drowning": 4562,
+    "Mixed or unknown": 4251,
+    "Vehicle accident / death linked to hazardous transport": 3093,
+    "Sickness / lack of access to adequate healthcare": 2553,
+    "Harsh environmental conditions / lack of adequate shelter, food, water": 2422
+  },
+  "top_origins": {
+    "Unknown": 8700,
+    "Afghanistan": 4414,
+    "Mexico": 1559,
+    "Guatemala": 547,
+    "Honduras": 401
+  },
+  "deaths_by_year": {
+    "2014.0": 5446,
+    "2015.0": 6961,
+    "2016.0": 8253,
+    "2017.0": 6404,
+    "2018.0": 5017,
+    "2019.0": 5432,
+    "2020.0": 4313,
+    "2021.0": 6279,
+    "2022.0": 7205,
+    "2023.0": 8755,
+    "2024.0": 9191,
+    "2025.0": 2584
+  }
+}

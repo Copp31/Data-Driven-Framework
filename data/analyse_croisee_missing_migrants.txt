@@ -1,0 +1,74 @@
+=== Deep Cross Analysis of the Missing Migrants Project Data ===
+
+--- Deadliest migration routes ---
+Central Mediterranean : 25113 dead/missing
+Unknown : 9115 dead/missing
+Sahara Desert crossing : 6816 dead/missing
+US-Mexico border crossing : 6557 dead/missing
+Western Africa / Atlantic route to the Canary Islands : 5606 dead/missing
+Western Mediterranean : 4431 dead/missing
+Afghanistan to Iran : 4343 dead/missing
+Eastern Route to/from EHOA : 3747 dead/missing
+Eastern Mediterranean : 2632 dead/missing
+Bay of Bengal/Andaman Sea : 2590 dead/missing
+
+--- Leading causes of death by migration route ---
+Central Mediterranean — Drowning : 22844 dead/missing
+Western Mediterranean — Drowning : 4047 dead/missing
+Western Africa / Atlantic route to the Canary Islands — Drowning : 3736 dead/missing
+US-Mexico border crossing — Mixed or unknown : 2689 dead/missing
+Eastern Mediterranean — Drowning : 2517 dead/missing
+Unknown — Drowning : 2258 dead/missing
+Sahara Desert crossing — Mixed or unknown : 2232 dead/missing
+Unknown — Vehicle accident / death linked to hazardous transport : 2207 dead/missing
+Unknown — Mixed or unknown : 1989 dead/missing
+Eastern Route to/from EHOA — Drowning : 1703 dead/missing
+Unknown — Violence : 1649 dead/missing
+Sahara Desert crossing — Vehicle accident / death linked to hazardous transport : 1558 dead/missing
+Bay of Bengal/Andaman Sea — Drowning : 1538 dead/missing
+US-Mexico border crossing — Drowning : 1494 dead/missing
+Eastern Route to/from EHOA — Violence : 1488 dead/missing
+
+--- Migrants' origin by region of incident ---
+Incident in Southern Asia — Origin: Southern Asia : 4292 cases
+Incident in North America — Origin: Latin America / Caribbean (P) : 2233 cases
+Incident in North America — Origin: Central America : 2141 cases
+Incident in Mediterranean — Origin: Unknown : 857 cases
+Incident in Western Africa — Origin: Sub-Saharan Africa (P) : 742 cases
+Incident in Northern Africa — Origin: Eastern Africa (P) : 741 cases
+Incident in Northern Africa — Origin: Unknown : 727 cases
+Incident in Central America — Origin: Central America : 692 cases
+Incident in Central America — Origin: Latin America / Caribbean (P) : 662 cases
+Incident in Mediterranean — Origin: Northern Africa : 405 cases
+Incident in Mediterranean — Origin: Sub-Saharan Africa (P) : 405 cases
+Incident in Northern Africa — Origin: Sub-Saharan Africa (P) : 375 cases
+Incident in Eastern Africa — Origin: Eastern Africa : 311 cases
+Incident in Eastern Africa — Origin: Eastern Africa (P) : 306 cases
+Incident in Central America — Origin: South America : 244 cases
+
+--- Years with the most children involved ---
+2019 : 538 children involved
+2024 : 487 children involved
+2023 : 457 children involved
+2018 : 406 children involved
+2022 : 387 children involved
+2021 : 347 children involved
+2017 : 324 children involved
+2015 : 314 children involved
+2014 : 305 children involved
+2016 : 277 children involved
+
+--- Average survivor ratio per year ---
+0 : avg ratio = 0.00
+2014 : avg ratio = 3.20
+2015 : avg ratio = 2.44
+2016 : avg ratio = 5.01
+2017 : avg ratio = 1.40
+2018 : avg ratio = 2.71
+2019 : avg ratio = 1.29
+2020 : avg ratio = 2.13
+2021 : avg ratio = 2.62
+2022 : avg ratio = 2.24
+2023 : avg ratio = 2.36
+2024 : avg ratio = 2.41
+2025 : avg ratio = 2.49
