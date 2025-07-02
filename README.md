@@ -3,7 +3,7 @@
 ## 🎼 Missing Migrants: Data-Driven Composition Framework
 
 
-This project offers a preliminary data analysis of the **Missing Migrants Project** dataset as a way to better understand the systemic violence and human loss surrounding global migration. The numbers—often treated as abstract or impersonal—are approached here as traces of real lives, dislocated by structural inequality, border regimes, and geopolitical indifference.
+This project offers a preliminary data analysis of the **Missing Migrants Project** dataset as a way to better understand the systemic violence and human loss surrounding global migration. The numbers—often treated as abstract or impersonal, are approached here as traces of real lives, dislocated by structural inequality, border regimes, and geopolitical indifference.
 
 This work marks the beginning of a broader research and composition project developed in collaboration with **Bled Contemporary Music Week** (Slovenia, 2026). The ultimate goal is to write a musical score under constraint, where data-derived elements shape the sonic language itself.
 
