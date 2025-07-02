@@ -11,6 +11,7 @@ The cleaned and analyzed data are translated into **MIDI files**, which will ser
 
 By grounding the musical process in datasets tied to human displacement, this project seeks to engage with questions of **audibility, ethics, and the limits of representation**.
 
+Database : https://missingmigrants.iom.int/downloads
 
 ## ⚙️ Workflow
 
@@ -69,13 +70,6 @@ You can replace the `map_range()` logic or enforce scale quantization (e.g., C m
 
 ---
 
-## 🧠 Why This Matters
-
-By converting tragedy into sound, we aim to:
-
-* Humanize complex datasets through emotional engagement
-* Offer alternative formats for storytelling and data exploration
-* Highlight overlooked humanitarian issues via creative tech
 
 This approach blends **data journalism**, **music composition**, and **information ethics**.
 
